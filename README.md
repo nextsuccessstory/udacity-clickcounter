@@ -1,4 +1,4 @@
-# udacity-clickcounter
+# Click Counter
 An iOS app that increases the count of a label when a button is clicked.
 
 ## Installation
